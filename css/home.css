@@ -1,0 +1,89 @@
+.novel {
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(250, 50, 50);
+    border-radius: 20px;
+}
+
+.comic {
+    border-style: solid;
+    border-width: 5px;
+    border-color: orange;
+    border-radius: 20px;
+}
+
+.profile {
+    width: 50px;
+    height: 50px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    border-radius: 100px;
+}
+
+.logout {
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+
+.read {
+    border-style: solid;
+    border-width: 5px;
+    border-color: blue;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+}
+
+#coverc {
+    width: 130px;
+    height: 210px;
+}
+
+.pad {
+    padding: 15px;
+    margin-top: 10px;
+    background-color:DodgerBlue;
+    color: white;
+    font-size: large;
+}
+.headd{
+    background-color:DodgerBlue;
+    margin-bottom: 10px;
+    color: white;
+}
+.headd1{
+    background-color:DodgerBlue;
+    color: white;
+}
+
+.pad20 {
+    padding: 20px;
+    
+}
+
+.team {
+    background-color: rgb(8, 0, 53);
+}
+/* 
+.dark-mode {
+    background-color: white;
+    color: black;
+} */
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .text_center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
